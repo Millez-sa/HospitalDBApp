@@ -6,7 +6,7 @@ package com.mycompany.hospitaldbapp;
 
 /**
  *
- * @author Michael
+ * @author Faranani Matsa
  */
 import java.sql.*;
 import java.util.Scanner;
